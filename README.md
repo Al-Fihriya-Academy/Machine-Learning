@@ -5,7 +5,7 @@ Machine Learning in Darija
 ## Outline:
 
 | Week | Course | YouTube | Slides | Colab | 
-| --- | --- | --- | --- | --- | --- | 
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Introduction to Machine Learning | --- | --- | --- | --- | 
 | 2 | Linear Regression with one or multiple variables | --- | --- | --- | --- | 
 | 3 | Logistic Regression | --- | --- | --- | --- | 
