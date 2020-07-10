@@ -5,15 +5,15 @@ Machine Learning in Darija
 ## Outline:
 
 | Week | Course | YouTube | Slides | Colab | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 1 | Introduction to Machine Learning | --- | --- | --- | --- | 
-| 2 | Linear Regression with one or multiple variables | --- | --- | --- | --- | 
-| 3 | Logistic Regression | --- | --- | --- | --- | 
-| 4 | Regularization, over/under fitting and evaluation techniques | --- | --- | --- | --- | 
-| 5 | Evaluation metrics and Neural Networks Part I | --- | --- | --- | --- | 
-| 6 | Neural Networks Part II: | --- | --- | --- | --- | 
-| 7 | Kaggle tutorial 1| --- | --- | --- | --- | 
-| 8 | Introduction to Image processing and Convolutional Neural Networks | --- | --- | --- | --- | 
+| --- | --- | --- | --- | --- | 
+| 1 | Introduction to Machine Learning | --- | --- | --- | 
+| 2 | Linear Regression with one or multiple variables | --- | --- | --- | 
+| 3 | Logistic Regression | --- | --- | --- | 
+| 4 | Regularization, over/under fitting and evaluation techniques | --- | --- | --- |  
+| 5 | Evaluation metrics and Neural Networks Part I | --- | --- | --- | 
+| 6 | Neural Networks Part II: | --- | --- | --- | 
+| 7 | Kaggle tutorial 1| --- | --- | --- |  
+| 8 | Introduction to Image processing and Convolutional Neural Networks | --- | --- | --- | 
 
 
 ## Youtube Playlist
